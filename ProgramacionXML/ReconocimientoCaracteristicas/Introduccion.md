@@ -14,7 +14,7 @@
   - Utiliza marcas para separar el contenido del estilo.
   - Validación gramatical de los elementos descriptivos.
 
-- **TeX**
+- **[TeX](https://es.wikipedia.org/wiki/TeX)**
   - Desarrollado por Donand Knuth entre 1970 y 1980.
   - Orientado a la maquetación de revistas de temática matemática.
   - Complejo de usar.
